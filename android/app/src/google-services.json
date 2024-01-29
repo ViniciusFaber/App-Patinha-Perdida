@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1792714838",
+    "project_id": "app-patinha-perdida-e5e1a",
+    "storage_bucket": "app-patinha-perdida-e5e1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1792714838:android:303f7f4a2559243feb33f7",
+        "android_client_info": {
+          "package_name": "br.edu.ifpr.patinha_perdida_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJ1H_GCVxj5SBbLJqWvb4206Zer0wSZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
